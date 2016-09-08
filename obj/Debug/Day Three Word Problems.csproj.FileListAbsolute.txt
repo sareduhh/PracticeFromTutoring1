@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day Three Word Problems\Day Three Word Problems\bin\Debug\Day Three Word Problems.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day Three Word Problems\Day Three Word Problems\bin\Debug\Day Three Word Problems.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day Three Word Problems\Day Three Word Problems\bin\Debug\Day Three Word Problems.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day Three Word Problems\Day Three Word Problems\obj\Debug\Day Three Word Problems.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day Three Word Problems\Day Three Word Problems\obj\Debug\Day Three Word Problems.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day Three Word Problems\Day Three Word Problems\obj\Debug\Day Three Word Problems.csprojResolveAssemblyReference.cache
